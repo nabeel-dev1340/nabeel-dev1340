@@ -18,7 +18,7 @@ I'm currently learning about microservices architecture using Spring Boot and ho
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-url/) or [Twitter](https://twitter.com/your-twitter-handle/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/syed-nabeel-sharafat-0b4738186/) or [Twitter](https://twitter.com/your-twitter-handle/).
 
 ## ⚡ Fun fact
 
