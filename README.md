@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+
 # Hi there, I'm [Syed Nabeel](https://github.com/nabeel-dev1340) 👋
 
 I'm a MERN stack developer with a passion for Next.js. I enjoy building full-stack web applications that are fast, efficient, and easy to use. I'm always looking for new and innovative ways to improve my development skills and stay up-to-date with the latest trends and technologies.
