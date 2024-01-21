@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/nabeel_devv"><img src="https://api.daily.dev/devcards/c810107ba7f64f3c925ab423255c6e0c.png?r=kvi" width="400" alt="Syed Nabeel Sharafat's Dev Card"/></a>
 
 # Hi there, I'm [Syed Nabeel](https://github.com/nabeel-dev1340) 👋
 
