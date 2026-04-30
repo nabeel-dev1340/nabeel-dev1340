@@ -22,7 +22,7 @@
 
 I'm a freelance developer and founder who turns public data into products. I build web scrapers, LLM-powered workflows, and SaaS tools — then distribute them through cold outreach and SEO. Based in Rawalpindi, Pakistan. Running [Beelodev](https://beelodev.com) as my agency brand.
 
-57+ completed Upwork jobs. Top Rated. 96% JSS. I ship fast and don't ghost clients.
+57+ completed Upwork jobs. Top Rated. 100% JSS. I ship fast and don't ghost clients.
 
 ---
 
@@ -64,8 +64,7 @@ skills = {
 ## `$ cat ./interests.txt`
 
 ```
-> Crypto perpetual futures (MEXC, Binance)
-> Islamic history & naming traditions
+> Islamic history
 > Space exploration & NASA data
 > Building data products from public records
 > Self-hosting everything that can be self-hosted
