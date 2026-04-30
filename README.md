@@ -1,29 +1,92 @@
-<a href="https://app.daily.dev/nabeel_devv"><img src="https://api.daily.dev/devcards/c810107ba7f64f3c925ab423255c6e0c.png?r=kvi" width="400" alt="Syed Nabeel Sharafat's Dev Card"/></a>
+<div align="center">
 
-# Hi there, I'm [Syed Nabeel](https://github.com/nabeel-dev1340) 👋
+```
+██████  ███████ ███████ ██       ██████  ██████  ███████ ██    ██
+██   ██ ██      ██      ██      ██    ██ ██   ██ ██      ██    ██
+██████  █████   █████   ██      ██    ██ ██   ██ █████   ██    ██
+██   ██ ██      ██      ██      ██    ██ ██   ██ ██       ██  ██
+██████  ███████ ███████ ███████  ██████  ██████  ███████   ████
+```
 
-I'm a MERN stack developer with a passion for Next.js. I enjoy building full-stack web applications that are fast, efficient, and easy to use. I'm always looking for new and innovative ways to improve my development skills and stay up-to-date with the latest trends and technologies.
+### Syed Nabeel — Founder @ [Beelodev](https://beelodev.com) · Freelance Automation & Scraping Engineer
 
-## 🔭 What I'm currently working on
+[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_96%25_JSS-14a800?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com)
+[![Pakistan](https://img.shields.io/badge/Based_in-Pakistan-01411C?style=flat-square)](https://en.wikipedia.org/wiki/Pakistan)
+[![Products](https://img.shields.io/badge/Indie_Products-3_Live-blueviolet?style=flat-square)](#products)
 
-I'm currently working on a web application built with Next.js. The application is designed to help users get personalized workout plans based on time duration, target muscles, equipment available and location.
+</div>
 
-## 🌱 What I'm currently learning
+---
 
-I'm currently learning about microservices architecture using Spring Boot and how it can be used to build scalable and cost-effective web applications.
+## `$ whoami`
 
-## 💬 Ask me about
+I'm a freelance developer and founder who turns public data into products. I build web scrapers, LLM-powered workflows, and SaaS tools — then distribute them through cold outreach and SEO. Based in Rawalpindi, Pakistan. Running [Beelodev](https://beelodev.com) as my agency brand.
 
-- Next.js
-- Full-stack web development
-- RESTful APIs
+57+ completed Upwork jobs. Top Rated. 96% JSS. I ship fast and don't ghost clients.
 
-## 📫 How to reach me
+---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/syed-nabeel-sharafat-0b4738186/) or [Twitter](https://twitter.com/your-twitter-handle/).
+## `$ ls ./skills`
 
-## ⚡ Fun fact
+```python
+skills = {
+    "scraping":      ["Python", "BeautifulSoup", "Selenium", "Playwright", "curl_cffi"],
+    "automation":    ["n8n", "Make.com", "Zapier", "LLM pipelines"],
+    "backend":       ["Python", "FastAPI", "Supabase", "PostgreSQL", "AWS SES"],
+    "frontend":      ["Next.js", "React", "Tailwind CSS"],
+    "infra":         ["Hetzner VPS", "Coolify", "Docker", "Railway", "Vercel"],
+    "payments":      ["Lemon Squeezy", "Stripe"],
+    "ai":            ["Claude API", "OpenAI", "LangChain", "Prompt Engineering"],
+}
+```
 
-When I'm not coding, I enjoy playing video games and reading fantasy novels. I also love to travel and explore new challenges.
+---
 
-Thanks for stopping by!
+## `$ ls ./products` <a name="products"></a>
+
+| Product | What it does |
+|---|---|
+| [ForeclosureDataHub.com](https://foreclosuredatahub.com) | Aggregated foreclosure listings data for real estate investors — built on public records scrapers, monetized via subscription |
+| [USAgentLeads.com](https://usagentleads.com) | US real estate agent lead database — achieved first sale via organic SEO |
+| [MasterWebScraping.com](https://masterwebscraping.com) | Python scraping course platform — built on Next.js + Convex |
+
+---
+
+## `$ cat ./current_focus.txt`
+
+- **AI Chatbot product** for property management companies — personalized cold outreach with live demos
+- **ForeclosureDataHub** pipeline expansion — VA Vendee, Texas Lis Pendens, HUD Home Store, foreclosure law firms
+- **Near-Earth Asteroid Tracker** — portfolio project using NASA public APIs
+- Scaling cold email infrastructure for [ForeclosureDataHub](https://foreclosuredatahub.com)
+
+---
+
+## `$ cat ./interests.txt`
+
+```
+> Crypto perpetual futures (MEXC, Binance)
+> Islamic history & naming traditions
+> Space exploration & NASA data
+> Building data products from public records
+> Self-hosting everything that can be self-hosted
+```
+
+---
+
+## `$ ping beelodev.com`
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-beelodev.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://beelodev.com)
+[![Upwork](https://img.shields.io/badge/Hire_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Fiverr](https://img.shields.io/badge/Hire_on-Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com)
+
+**Open to:** Python scraping · n8n / Make.com automation · LLM integrations · Next.js + Supabase builds
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built different. Ships fast. Self-hosted wherever possible.</sub>
+</div>
