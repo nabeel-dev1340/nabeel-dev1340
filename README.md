@@ -1,91 +1,166 @@
-<div align="center">
+<div align="center">NABEEL.
 
-```
-██████  ███████ ███████ ██       ██████  ██████  ███████ ██    ██
-██   ██ ██      ██      ██      ██    ██ ██   ██ ██      ██    ██
-██████  █████   █████   ██      ██    ██ ██   ██ █████   ██    ██
-██   ██ ██      ██      ██      ██    ██ ██   ██ ██       ██  ██
-██████  ███████ ███████ ███████  ██████  ██████  ███████   ████
-```
+I build boring software that makes money.
 
-### Syed Nabeel — Founder @ [Beelodev](https://beelodev.com) · Freelance Automation & Scraping Engineer
+Automation · Scraping · SaaS · AI
 
-[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_96%25_JSS-14a800?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com)
-[![Pakistan](https://img.shields.io/badge/Based_in-Pakistan-01411C?style=flat-square)](https://en.wikipedia.org/wiki/Pakistan)
-[![Products](https://img.shields.io/badge/Indie_Products-3_Live-blueviolet?style=flat-square)](#products)
+<br>"Pakistan" (https://img.shields.io/badge/📍_Pakistan-111111?style=flat-square)
+"Upwork" (https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat-square&logo=upwork&logoColor=white)
+"Products Sold" (https://img.shields.io/badge/Exits-2-7C3AED?style=flat-square)
+"Jobs" (https://img.shields.io/badge/Upwork_Jobs-57+-111111?style=flat-square)
 
-</div>
+</div><br>The idea
+
+Most of the software I build starts with the same question:
+
+«"Why is someone still doing this manually?"»
+
+Sometimes the answer becomes a Python script.
+
+Sometimes an n8n workflow.
+
+Sometimes it turns into a SaaS.
+
+And sometimes someone buys the whole thing.
 
 ---
 
-## `$ whoami`
+Two bets → two exits
 
-I'm a freelance developer and founder who turns public data into products. I build web scrapers, LLM-powered workflows, and SaaS tools — then distribute them through cold outreach and SEO. Based in Rawalpindi, Pakistan. Running [Beelodev](https://beelodev.com) as my agency brand.
+<table>
+<tr>
+<td width="50%" valign="top">🏠 ForeclosureDataHub
 
-57+ completed Upwork jobs. Top Rated. 100% JSS. I ship fast and don't ghost clients.
+Aggregated messy foreclosure and REO data from 20+ public sources into one searchable product covering all 50 US states.
+
+Built the scrapers, pipelines, backend, product and acquisition engine.
+
+Exit → $28,000
+
+"August 2026"
+
+</td>
+<td width="50%" valign="top">👥 USAgentLeads
+
+Turned scattered public real-estate records into a database of 900,000+ verified US real estate agents.
+
+First organic sale landed within two weeks.
+
+Exit → $12,000
+
+"August 2026"
+
+</td>
+</tr>
+</table><div align="center">$40,000 combined exits.
+
+No team. No VC. No paid acquisition.
+
+Just code, public data, SEO and a lot of cron jobs.
+
+</div>---
+
+How I build
+
+MESSY PROBLEM
+     │
+     ▼
+Can it be automated?
+     │
+     ├──── yes ────► Python / n8n / APIs
+     │
+     ▼
+Does it happen repeatedly?
+     │
+     ├──── yes ────► SaaS
+     │
+     ▼
+Can distribution compound?
+     │
+     └─────────────► SEO / AEO / outbound
+
+My favorite businesses aren't complicated.
+
+Find something painful → automate it → package it → distribute it.
 
 ---
 
-## `$ ls ./skills`
+Currently cooking
 
-```python
-skills = {
-    "scraping":      ["Python", "BeautifulSoup", "Selenium", "Playwright", "curl_cffi"],
-    "automation":    ["n8n", "Make.com", "Zapier", "LLM pipelines"],
-    "backend":       ["Python", "FastAPI", "Supabase", "PostgreSQL", "AWS SES"],
-    "frontend":      ["Next.js", "React", "Tailwind CSS"],
-    "infra":         ["Hetzner VPS", "Coolify", "Docker", "Railway", "Vercel"],
-    "payments":      ["Lemon Squeezy", "Stripe"],
-    "ai":            ["Claude API", "OpenAI", "LangChain", "Prompt Engineering"],
+<table>
+<tr>
+<td width="50%" valign="top">🔗 ListPik
+
+A visual bookmarking app for saving, organizing and sharing the things you discover online.
+
+Built around a simple idea:
+
+the internet gives you infinite things to discover, but terrible ways to remember them.
+
+→ "listpik.com" (https://listpik.com)
+
+</td>
+<td width="50%" valign="top">🔍 SEOforSolos
+
+Taking the SEO/AEO systems I used while building and growing my own products and packaging them for solo founders.
+
+SEO without the agency fluff.
+
+Built for people shipping products on their own.
+
+→ "seoforsolos.com" (https://seoforsolos.com)
+
+</td>
+</tr>
+</table>What's next?
+
+I'm experimenting with a different class of SaaS:
+
+less "here's some data"
+
+more "this runs part of your business for you."
+
+Operational tools. Workflow SaaS. Automations people depend on every week.
+
+---
+
+Things I use to make computers do the boring stuff
+
+stack = {
+    "scraping":   ["Python", "Playwright", "BeautifulSoup", "curl_cffi"],
+    "automation": ["n8n", "Make", "APIs", "Webhooks"],
+    "ai":         ["LLMs", "Agents", "Structured Extraction"],
+    "backend":    ["FastAPI", "Supabase"],
+    "frontend":   ["Next.js"],
+    "infra":      ["Hetzner", "Coolify", "Docker"],
 }
-```
+
+philosophy = "use boring tech until boring tech stops working"
 
 ---
 
-## `$ ls ./products` <a name="products"></a>
+The other side of my work
 
-| Product | What it does |
-|---|---|
-| [ForeclosureDataHub.com](https://foreclosuredatahub.com) | Aggregated foreclosure listings data for real estate investors — built on public records scrapers, monetized via subscription |
-| [USAgentLeads.com](https://usagentleads.com) | US real estate agent lead database — achieved first sale via organic SEO |
-| [MasterWebScraping.com](https://masterwebscraping.com) | Python scraping course platform — built on Next.js + Convex |
+I also build automation and scraping systems for clients.
 
----
+57+ Upwork jobs across:
 
-## `$ cat ./current_focus.txt`
+"web scraping" · "browser automation" · "n8n" · "Make" · "AI workflows" · "data pipelines" · "Next.js" · "Supabase"
 
-- **AI Chatbot product** for property management companies — personalized cold outreach with live demos
-- **ForeclosureDataHub** pipeline expansion — VA Vendee, Texas Lis Pendens, HUD Home Store, foreclosure law firms
-- **Near-Earth Asteroid Tracker** — portfolio project using NASA public APIs
-- Scaling cold email infrastructure for [ForeclosureDataHub](https://foreclosuredatahub.com)
+I like projects where the current workflow sounds something like:
+
+«"Every morning someone opens this website, copies this into a spreadsheet, then..."»
+
+That's usually a good sign.
 
 ---
 
-## `$ cat ./interests.txt`
+<div align="center">Got something painfully manual?
 
-```
-> Islamic history
-> Space exploration & NASA data
-> Building data products from public records
-> Self-hosting everything that can be self-hosted
-```
+""Hire me on Upwork" (https://img.shields.io/badge/LET'S_AUTOMATE_IT-14A800?style=for-the-badge&logo=upwork&logoColor=white)" (https://upwork.com)
 
----
+<br>Building from Pakistan 🇵🇰 · shipping to the internet 🌍
 
-## `$ ping beelodev.com`
+<sub>Automate the boring stuff. Ship the useful stuff.</sub>
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-beelodev.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://beelodev.com)
-[![Upwork](https://img.shields.io/badge/Hire_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
-[![Fiverr](https://img.shields.io/badge/Hire_on-Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com)
-
-**Open to:** Python scraping · n8n / Make.com automation · LLM integrations · Next.js + Supabase builds
-
-</div>
-
----
-
-<div align="center">
-<sub>Built different. Ships fast. Self-hosted wherever possible.</sub>
 </div>
